@@ -1,6 +1,8 @@
 # Homebrew tap for Warren
 
 ```sh
+brew tap veerareddyvishal144/warren
+brew trust veerareddyvishal144/warren     # Homebrew 5 and newer ask you to trust a third-party tap once
 brew install veerareddyvishal144/warren/warren
 ```
 
